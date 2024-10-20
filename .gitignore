@@ -1,0 +1,4 @@
+trained_digit_recognition_model.h5
+
+.venv
+__pycache__
